@@ -24,4 +24,5 @@ Features
 3. Use the interface to add products and view the shopping cart.  
 
 GitHub Repository Link
+https://maryjoymabayao.github.io/Mini-Cosmetics-Store/
 
